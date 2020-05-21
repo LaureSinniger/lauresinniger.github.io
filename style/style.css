@@ -52,7 +52,7 @@ première page, nom puis footer
 
 */
 
-img#image-accueil{
+div#image-accueil{
 	
 	display: inline-block;
 	width: 40%;
