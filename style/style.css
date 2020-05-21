@@ -4,6 +4,10 @@ body{
 	text-decoration color: none;
 }
 
+html, body {
+    height: 100%;
+}
+
 /* 
 
 
@@ -160,6 +164,7 @@ margin-right: 20%;
 
 
 
+
 }
 
 h1{
@@ -216,7 +221,6 @@ div#vinyle-description{
 	width: 300px;
 	margin: 20px;
 	color: #2D2E2E;
-
 }
 
 img#vinylemockup{
@@ -282,19 +286,22 @@ div#oulipo-description{
 	padding: 20px;
 	text-decoration: none;
 	font-size: 1em;
+	 min-height: 100%;
+    position: relative;
+    padding-bottom: 100px;
 
 }
 
 img#affiche-oulipo1{
-	width: 27%;
+	width: 35%;
 	margin: 10px;
 }
 img#affiche-oulipo2{
-	width: 32%;
+	width: 40%;
 	margin: 10px;
 }
 img#affiche-oulipo3{
-	width: 27%;
+	width: 35%;
 	margin: 10px;
 }
 
