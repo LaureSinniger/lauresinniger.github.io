@@ -59,10 +59,7 @@ div#image-accueil{
 	margin-top: 250px;
 }
 
-li:ho/ver{
-	
-	color: white;
-}
+
 
 #footer{
 	font-family: 'Roboto Mono', monospace;;
@@ -74,8 +71,9 @@ li:ho/ver{
 	height: 80px;
 	text-decoration: none;
 	bottom: 0px;
-	position: relative;
+
 	width: auto;
+	line-height: 120%;
 
 }
 
