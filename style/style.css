@@ -80,9 +80,8 @@ div#image-accueil{
 	text-decoration: none;
 
 
-	width: 90%;
+	width: 100%;
 
-	position: absolute;
     bottom: 0;
 
 }
@@ -286,9 +285,9 @@ div#oulipo-description{
 	padding: 20px;
 	text-decoration: none;
 	font-size: 1em;
-	 min-height: 100%;
+
     position: relative;
-    padding-bottom: 100px;
+
 
 }
 
