@@ -73,12 +73,13 @@ li:ho/ver{
 	margin: 20px ;
 	height: 100px;
 	text-decoration: none;
+	bottom: 0px;
 
 }
 
 #contact{
 	font-family: 'Roboto Mono', monospace;
-	width: 270px;
+	width: 25%;
 	height: 100px;
 	display: inline-block;
 	text-align: right;
@@ -89,7 +90,7 @@ li:ho/ver{
 
 #contact2{
 	font-family: 'Roboto Mono', monospace;
-	width: 270px;
+	width: 25%;
 	height: 100px;
 	display: inline-block;
 	color: #2D2E2E;
@@ -97,7 +98,7 @@ li:ho/ver{
 
 #reseaux{
 	font-family: 'Roboto Mono', monospace;
-	width: 270px;
+	width: 25%;
 	height: 100px;
 	display: inline-block;
 	text-align: right;
@@ -107,7 +108,7 @@ li:ho/ver{
 
 #reseaux2{
 	font-family: 'Roboto Mono', monospace;
-	width: 270px;
+	width: 25%;
 	height: 100px;
 	display: inline-block;
 	color: #2D2E2E;
@@ -118,6 +119,13 @@ a: link{
 	color: #2D2E2E;
 	text-decoration: none;
 }
+
+a: visited{
+	color: #2D2E2E;
+	text-decoration: none;
+}
+
+
 
 
 /* 
