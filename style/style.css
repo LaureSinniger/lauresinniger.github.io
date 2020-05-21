@@ -67,15 +67,15 @@ li:ho/ver{
 #footer{
 	font-family: 'Roboto Mono', monospace;;
 	font-size: 1.1em;
-	padding: 5%;
+	padding-top: 20px;
 	color: white;
 	background-color: #7F7F7F;
-	margin: 5% ;
-	height: 100px;
+	margin: 20px;
+	height: 80px;
 	text-decoration: none;
 	bottom: 0px;
 	position: absolute;
-	width: 85%;
+	width: auto;
 
 }
 
