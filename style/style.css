@@ -52,9 +52,11 @@ première page, nom puis footer
 div#image-accueil{
 	
 	display: inline-block;
-	width: 40%;
+	width: 60%;
+
 	margin-left: 35%;
 	margin-right: auto;
+
 	margin-bottom: 30%;
 	margin-top: 250px;
 }
@@ -64,16 +66,17 @@ div#image-accueil{
 #footer{
 	font-family: 'Roboto Mono', monospace;;
 	font-size: 1.1em;
-	padding-top: 20px;
-	color: white;
+	line-height: 120%;
 	background-color: #7F7F7F;
+	padding-top: 20px;
+
+
 	margin: 20px;
-	height: 80%;
+	height: 100px;
 	text-decoration: none;
-	bottom: 0px;
+
 
 	width: auto;
-	line-height: 120%;
 
 	position: absolute;
     bottom: 0;
