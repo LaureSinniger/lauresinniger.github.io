@@ -1,0 +1,461 @@
+body{
+	background-color: #BCABAE;
+	font-family: 'Playfair Display', serif;
+	text-decoration color: none;
+}
+
+/* 
+
+
+menu côté gauche !!
+
+
+*/
+
+li{
+	color: #2D2E2E;
+}
+
+div#menu{
+
+	background-color: #BCABAE;
+	width: 40px;
+	height: 100px;
+	margin-left: 100px;
+	margin-top: 200px;
+	position: fixed;
+	text-decoration: none;
+	font-family: 'Playfair Display', serif;
+	font-size: 1.6em;
+	display: inline-block;
+	color: #2D2E2E;
+}
+
+a: link{
+	color: #2D2E2E;
+	text-decoration: none;
+}
+
+#logo{
+	height: 45px;
+	margin: 3px;
+
+}
+
+
+
+/*
+
+
+première page, nom puis footer
+
+
+*/
+
+div#image-accueil{
+	
+	display: inline-block;
+	width: 40%;
+	margin-left: 35%;
+	margin-right: auto;
+	margin-bottom: 200px;
+	margin-top: 250px;
+}
+
+li:ho/ver{
+	
+	color: white;
+}
+
+#footer{
+	font-family: 'Roboto Mono', monospace;;
+	font-size: 1.1em;
+	padding: 20px;
+	color: white;
+	background-color: #7F7F7F;
+	margin: 20px ;
+	height: 100px;
+	text-decoration: none;
+
+}
+
+#contact{
+	font-family: 'Roboto Mono', monospace;
+	width: 270px;
+	height: 100px;
+	display: inline-block;
+	text-align: right;
+	padding-right: 8px;
+	color: #2D2E2E;
+
+}
+
+#contact2{
+	font-family: 'Roboto Mono', monospace;
+	width: 270px;
+	height: 100px;
+	display: inline-block;
+	color: #2D2E2E;
+}
+
+#reseaux{
+	font-family: 'Roboto Mono', monospace;
+	width: 270px;
+	height: 100px;
+	display: inline-block;
+	text-align: right;
+	padding-right: 8px;
+	color: #2D2E2E;
+}
+
+#reseaux2{
+	font-family: 'Roboto Mono', monospace;
+	width: 270px;
+	height: 100px;
+	display: inline-block;
+	color: #2D2E2E;
+
+}
+
+
+/* 
+
+organisation des projets :
+mettre un hover sur les cercles ?
+
+*/
+
+#sommaire{
+	font-family: 'Playfair Display', serif;
+
+	color :#2D2E2E;
+
+	margin-right: 240px;
+	margin-left: 240px;
+	display:block;
+	width: auto;
+	padding: 30px;
+	color: #2D2E2E;
+
+}
+
+h1{
+	text-align: center;
+	font-size: 3em;
+	margin: 20px;
+	color: #2D2E2E;
+}
+
+h2{
+	font-size: 2em;
+	padding: 8px;
+	color: #2D2E2E;
+}
+
+#commandes{
+	font-size: 1.2em;
+	line-height: 130%;
+
+}
+
+#plastiques{
+	font-size: 1.2em;
+	line-height: 130%;
+
+}
+
+
+img{
+	height: 150px;
+	margin: 20px;
+}
+
+
+
+
+/* 
+
+VINYLE
+
+*/
+
+
+div#vinyle-description{
+	background-color: white;
+	width: 900px;
+	margin: auto;
+	padding: 20px;
+	text-decoration: none;
+	font-size: 1em;
+}
+
+#description{
+	width: 300px;
+	margin: 20px;
+	color: #2D2E2E;
+
+}
+
+img#vinylemockup{
+	width: 97%;
+	height: auto;
+}
+
+
+/* 
+
+ivh
+float:right;
+float:left;
+display: inline-block;
+definir taille de chaque div (mettre une image par div)
+mettre height et width 100%
+
+*/
+
+
+div#ivh-description{
+	background-color: white;
+	width: 900px;
+	margin: auto;
+	padding: 20px;
+	text-decoration: none;
+	font-size: 1em;
+
+
+}
+
+
+
+
+img#carton1{
+	width: 45%;
+	height: auto;
+	margin: 10px;
+}
+img#carton2{
+	width: 45%;
+	height: auto;
+	margin: 10px;
+}
+img#carton3{
+	width: 48%;
+	height: auto;
+	margin: 10px;
+}
+img#carton4{
+	width: 42%;
+	height: auto;
+	margin: 10px;
+}
+
+/* 
+
+OULIPO
+
+*/
+
+
+div#oulipo-description{
+	background-color: white;
+	width: 900px;
+	margin: auto;
+	padding: 20px;
+	text-decoration: none;
+	font-size: 1em;
+
+}
+
+img#affiche-oulipo{
+	height: 57.5%;
+	margin: 10px;
+}
+
+/* 
+
+FESTIVAL MURS À PÊCHES
+
+*/
+
+
+div#festival-description{
+	background-color: white;
+	width: 900px;
+	margin: auto;
+	padding: 20px;
+	text-decoration: none;
+	font-size: 1em;
+}
+
+img#image-video{
+	width: 95%;
+	height: auto;
+	margin: 10px;
+	border: solid black 1px;
+}
+img#affiche-festival{
+	width: 30%;
+	height: auto;
+	margin: 10px;
+	border: solid black 1px;
+}
+img#affiche-festival2{
+	width: 63%;
+	height: auto;
+	margin: 10px;
+}
+
+
+
+/* 
+
+IMAGIER
+
+*/
+
+
+div#imagier-description{
+	background-color: white;
+	width: 900px;
+	margin: auto;
+	padding: 20px;
+	text-decoration: none;
+	font-size: 1em;
+}
+
+img#imagier1{
+	width: 40%;
+	height: auto;
+	margin: 10px;
+}
+img#imagier2{
+	width: 50%;
+	height: auto;
+	margin: 10px;
+}
+
+img#imagier3{
+	width: 50%;
+	height: auto;
+	margin: 10px;
+}
+img#imagier4{
+	width: 40%;
+	height: auto;
+	margin: 10px;
+}
+
+
+/* 
+
+BD OBJETS
+
+*/
+
+
+div#objets-description{
+	background-color: white;
+	width: 900px;
+	margin: auto;
+	padding: 20px;
+	text-decoration: none;
+	font-size: 1em;
+}
+
+img#objets-impossibles-bleu{
+	width: 97%;
+	height: auto;
+	margin: 10px;
+}
+img#objets-impossibles-rouge{
+	width: 97%;
+	height: auto;
+	margin: 10px;
+}
+img#objets-impossibles-jaune{
+	width: 97%;
+	height: auto;
+	margin: 10px;
+}
+
+/* 
+
+VULVE POETIQUE
+
+*/
+
+
+div#vulve-description{
+	background-color: white;
+	width: 900px;
+	margin: auto;
+	padding: 20px;
+	text-decoration: none;
+	font-size: 1em;
+}
+
+img#vulve-poetique1{
+	width: 97%;
+	height: auto;
+	margin: 10px;
+}
+img#vulve-poetique2{
+	width: 30%;
+	height: auto;
+	margin: 10px;
+}
+img#vulve-poetique3{
+	width: 30%;
+	height: auto;
+	margin: 10px;
+}
+img#vulve-poetique4{
+	width: 30%;
+	height: auto;
+	margin: 10px;
+}
+
+/* 
+
+POP UP
+
+float:right;
+float:left;
+display: inline-block;
+definir taille de chaque div (mettre une image par div)
+mettre height et width 100%
+
+*/
+
+
+div#popup-description{
+	background-color: white;
+	width: 900px;
+	margin: auto;
+	padding: 20px;
+	text-decoration: none;
+	font-size: 1em;
+}
+
+img#popup1{
+	width: 43%;
+	height: auto;
+	margin: 10px;
+}
+
+img#popup2{
+	width: 47%;
+	height: auto;
+	margin: 10px;
+}
+img#popup3{
+	width: 47%;
+	height: auto;
+	margin: 10px;
+}
+img#popup4{
+	width: 43%;
+	height: auto;
+	margin: 10px;
+}
+
