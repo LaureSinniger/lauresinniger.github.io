@@ -75,6 +75,9 @@ div#image-accueil{
 	width: auto;
 	line-height: 120%;
 
+	position: absolute;
+    bottom: 0;
+
 }
 
 #contact{
