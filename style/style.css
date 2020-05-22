@@ -294,7 +294,7 @@ div#oulipo-description{
 	text-decoration: none;
 	font-size: 1em;
 
-    position: relative;
+    position: auto;
 
 
 }
@@ -305,7 +305,7 @@ img#affiche-oulipo1{
 	margin: 10px;
 }
 img#affiche-oulipo2{
-	width: 35%;
+	width: 36%;
 	height: auto;
 	margin: 10px;
 }
