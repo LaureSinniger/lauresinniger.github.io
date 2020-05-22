@@ -157,13 +157,14 @@ margin-right: 20%;
 	color: #2D2E2E;
 	white-space: nowrap;
 
-	width: 50%;
+	width: 65%;
 	margin: auto;
 
 }
 
 #images-sommaire1{
-	margin: center auto;
+	margin: auto;
+	justify-content: center;
 }
 
 
@@ -295,17 +296,17 @@ div#oulipo-description{
 }
 
 img#affiche-oulipo1{
-	width: 35%;
+	width: 27%;
 	height: auto;
 	margin: 10px;
 }
 img#affiche-oulipo2{
-	width: 40%;
+	width: 33%;
 	height: auto;
 	margin: 10px;
 }
 img#affiche-oulipo3{
-	width: 35%;
+	width: 27%;
 	height: auto;
 	margin: 10px;
 }
