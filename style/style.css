@@ -181,17 +181,13 @@ margin-right: 20%;
 #images-sommaire1{
 	margin: auto;
 	position: auto;
-  	top: 50%;
-  	left: 50%;
-	transform: translate(-50%, -50%);
+  
 }
 
 #images-sommaire2{
 	margin: auto;
 	position: auto;
-  	top: 50%;
-  	left: 50%;
-	transform: translate(-50%, -50%);
+
 }
 
 
