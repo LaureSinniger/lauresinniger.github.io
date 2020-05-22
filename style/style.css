@@ -296,14 +296,17 @@ div#oulipo-description{
 
 img#affiche-oulipo1{
 	width: 35%;
+	height: auto;
 	margin: 10px;
 }
 img#affiche-oulipo2{
 	width: 40%;
+	height: auto;
 	margin: 10px;
 }
 img#affiche-oulipo3{
 	width: 35%;
+	height: auto;
 	margin: 10px;
 }
 
