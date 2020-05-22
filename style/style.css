@@ -164,8 +164,12 @@ margin-right: 20%;
 
 #images-sommaire1{
 	margin: auto;
-	justify-content: center;
+	position: absolute;
+  	top: 50%;
+  	left: 50%;
+	transform: translate(-50%, -50%);
 }
+
 
 
 
@@ -301,7 +305,7 @@ img#affiche-oulipo1{
 	margin: 10px;
 }
 img#affiche-oulipo2{
-	width: 33%;
+	width: 35%;
 	height: auto;
 	margin: 10px;
 }
