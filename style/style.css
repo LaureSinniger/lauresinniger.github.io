@@ -217,7 +217,7 @@ VINYLE
 
 div#vinyle-description{
 	background-color: white;
-	width: 900px;
+	width: 65%;
 	margin: auto;
 	padding: 20px;
 	text-decoration: none;
@@ -245,12 +245,15 @@ display: inline-block;
 definir taille de chaque div (mettre une image par div)
 mettre height et width 100%
 
+
+	width: 900px;
+
 */
 
 
 div#ivh-description{
 	background-color: white;
-	width: 900px;
+	width: 65%;
 	margin: auto;
 	padding: 20px;
 	text-decoration: none;
@@ -293,7 +296,6 @@ div#oulipo-description{
 	padding: 20px;
 	text-decoration: none;
 	font-size: 1em;
-
     position: auto;
 
 
@@ -324,7 +326,7 @@ FESTIVAL MURS À PÊCHES
 
 div#festival-description{
 	background-color: white;
-	width: 900px;
+	width: 65%;
 	margin: auto;
 	padding: 20px;
 	text-decoration: none;
